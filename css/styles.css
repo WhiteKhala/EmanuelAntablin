@@ -29,7 +29,7 @@ hr {
 
 .navbar.navbar-default {
 	background: none;
-	border: none; 
+	border: none;
   z-index: 1;
 }
 
@@ -41,7 +41,7 @@ hr {
 
 .row-header {
   padding: 10vh 10vw 0 10vw;
-  background-image: url('https://images.unsplash.com/photo-1491962848787-57877fa19dc8?dpr=2&auto=format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=&bg=');
+  background-image: url('http://ekamtechnologies.com/images/page1_img4.jpg');
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
@@ -120,7 +120,7 @@ hr {
 .row-footer {
 	padding: 0vh 10vw 10vw 10vw;
 	margin-top:100px;
-	background-image: url('https://images.unsplash.com/photo-1491962848787-57877fa19dc8?dpr=2&auto=format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=&bg=');
+	background-image: url('http://ekamtechnologies.com/images/page1_img4.jpg');
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
