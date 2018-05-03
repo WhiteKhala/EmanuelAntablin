@@ -1,3 +1,4 @@
-<h1>"Modern" portfolio page</h1>
+Website made by Chippd (Chris Dermody)
+https://whitekhala.github.io/EmanuelAntablin/
 
-<p><a href="https://chippd.github.io/modern/">View demo here</a></p>
+It's got a modern and simple interface to it.
